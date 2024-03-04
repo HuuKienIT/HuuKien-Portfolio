@@ -33,7 +33,7 @@ My complete implementation of assignments and projects in [***CS224n: Natural La
 
 <div style="text-align: justify">This Python weather application is developed to provide users with real-time weather information in a visual and easy-to-use way. The application uses Python and open-source libraries to access weather API data, process data, and display information on a graphical user interface (GUI).</div>
 <br>
-<center><img src="images/weather-app.png"></center>
+<center><img src="images/weatherapp.png"></center>
 <br>
 
 ---
