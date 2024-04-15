@@ -5,8 +5,7 @@
 ### Python Django Social Netwwork (Instagram clone)
 
 <!-- [![Open Notebook](https://img.shields.io/badge/Jupyter-Open_Notebook-blue?logo=Jupyter)](projects/detect-food-trends-facebook.html) -->
-
-[![View on GitHub]([https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/HuuKienIT/Weather-App](https://github.com/thientranreal/InstagramProject))
+[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/thientranreal/InstagramProject))
 
 <div style="text-align: justify">Introducing a bespoke social networking application meticulously crafted from scratch. Seamlessly blending user-centric design with robust functionality, this platform fosters meaningful connections. With tailor-made features tailored to enhance user experience, it offers a personalized digital space for sharing, networking, and community-building. Experience innovation at your fingertips with our custom-built social networking solution.</div>
 <br>
